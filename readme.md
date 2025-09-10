@@ -1,0 +1,1 @@
+Tänne teen tietokannan suunnittelun tehtäviä.
