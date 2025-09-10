@@ -1,7 +1,7 @@
 CREATE TABLE reservation (
 ReservationID INT NOT NULL,
   CustomerID INT NOT NULL,
-  ReservationDate DATE NOT NULL,
+  ReservationDate varchar(16) NOT NULL,
   StartTime TIME NOT NULL,
   EndTime TIME NOT NULL,
   PlateNr VARCHAR(10) NOT NULL,
